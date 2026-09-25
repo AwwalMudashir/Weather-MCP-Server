@@ -33,7 +33,7 @@ server.tool(
                 content: [
                 {
                     type: "text",
-                    text: `Nigga, The location service failed for "${city}". Try another city dumbahh.`
+                    text: `Yoo, The location service failed for "${city}". Try another city.`
                 }
                 ]
             };
@@ -46,7 +46,7 @@ server.tool(
                 content: [
                     {
                         type: 'text',
-                        text: `Sorry I couldn't find the lat and long of your so called city, ${city}, Does it even exist Nigga ?`
+                        text: `Sorry I couldn't find the lat and long of your so called city, ${city}, Does it even exist ?`
                     }
                 ]
             }
@@ -63,7 +63,7 @@ server.tool(
                 content: [
                 {
                     type: "text",
-                    text: `The weather API failed for "${city}". Nigga try again in a moment.`
+                    text: `The weather API failed for "${city}". Try again in a moment.`
                 }
                 ]
             };
