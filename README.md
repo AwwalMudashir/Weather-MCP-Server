@@ -314,6 +314,9 @@ npx tsx cleaner-main.ts
 
 ---
 
+## Badges
+[![M8ven Score](https://m8ven.ai/badge/mcp/awwalmudashir/weather-mcp-server)](https://m8ven.ai/mcp/awwalmudashir/weather-mcp-server)
+
 ## Summary
 
 This project is a simple example of building an MCP weather tool using:
